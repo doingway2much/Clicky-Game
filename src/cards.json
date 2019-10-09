@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "name": "CaptinAmerica",
-      "image": "https://i.pinimg.com/474x/8c/b9/cc/8cb9cc7c6822c17e1cd10f8bddb5f9f9.jpg",
+      "name": "Captain America",
+      "image": "https://miro.medium.com/fit/c/256/256/1*KlXnPJQZzrjM-aqdyYxOdA.png",
       "count": 0
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "name": "SBlack Panther",
+      "name": "Black Panther",
       "image": "https://static-asset-delivery.hasbroapps.com/d4d8ccc5d7283c12117ccb3db9024ed79cdf4fef/2cd993c6bc1a06808578fd1c84d015f2.png",
       "count": 0
     },

@@ -1,16 +1,44 @@
+body { 
+  background-color: black;
+}
 
+.App {
+  background-color: black;
+}
 
 .App-header {
-  background-color: #222;
-  height: 100px;
+  background-image: url("/img/banner.jpg");
+  /* background-color: #222; */
+  height: 300px;
   padding: 10px;
   color: white;
 }
+#App-logo {
+  margin-top: 125px;
+  margin-left: -8px;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  /* box-shadow: 0 0 10px red; */
+}
 
 .App-title {
-  font-size: 2em;
+  font-family: 'Marvel', sans-serif;
+  font-size: 4em;
+  color: red;
 }
 
 .App-intro {
+  margin-top: -10px;
   font-size: large;
+}
+.App-footer {
+  text-align: center;
+  background-color: black;
+  color: red;
+}
+
+p {
+  background-color: black;
 }
