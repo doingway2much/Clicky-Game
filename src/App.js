@@ -21,8 +21,7 @@ class App extends Component {
       this.setState({
         clickedHeroIds: [],
         score: 0,
-        status:
-          "Game Over! Click on any of the images to try your luck again!!!!!"
+        status: "Game Over! Click on any of the images to try your luck again!!!!!"
       });
       return;
     } else {
@@ -34,7 +33,6 @@ class App extends Component {
           status: "You Won! Awesome, Click to play again!",
           clickedHeroIds: []
         });
-        console.log("You Win");
         return;
       }
 
@@ -74,17 +72,11 @@ class App extends Component {
         </Wrapper>
         <footer>
         <div className="App-footer">
-          <p>
-            Designed and built by Seth Randell. You can find the code
-            <a
-              href="https://github.com/doingway2much/clicky-game"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {" "}
-              here
+          <p> Created by by Seth Randell.       
+            <a href="https://github.com/doingway2much/clicky-game" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github-square">
+              </i>
             </a>
-            .
           </p>
           </div>
         </footer>

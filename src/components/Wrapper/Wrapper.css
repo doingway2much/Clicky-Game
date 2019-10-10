@@ -1,7 +1,7 @@
   
 .wrapper {
     background-image: url("https://images.pond5.com/dark-red-abstract-space-matter-footage-087351773_prevstill.jpeg");
-    padding-top: 10px;
+    padding-top: 20px;
     height: 100%;
     display: flex;
     flex-flow: row wrap;

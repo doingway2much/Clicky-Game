@@ -1,6 +1,21 @@
 body { 
   background-color: black;
 }
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
 
 .App {
   background-color: black;
@@ -8,32 +23,36 @@ body {
 
 .App-header {
   background-image: url("/img/banner.jpg");
-  /* background-color: #222; */
-  height: 300px;
-  padding: 10px;
+  height: 250px;
+  /* padding:5px; */
   color: white;
+  margin-top: -5px;
 }
 #App-logo {
-  margin-top: 125px;
-  margin-left: -8px;
+  margin-top: 0px;
   width: 100%;
   text-align: center;
-  background-color: black;
+  background-color: red;
   opacity: 0.8;
   /* box-shadow: 0 0 10px red; */
 }
 
 .App-title {
   font-family: 'Marvel', sans-serif;
-  font-size: 4em;
-  color: red;
+  font-size: 3em;
+  font-weight: bold;
+  color: white;
 }
 
 .App-intro {
-  margin-top: -10px;
+  background-color: red;
+  margin-top: -2px;
+  padding-bottom: 5px;
   font-size: large;
+  color: black;
 }
 .App-footer {
+  /* box-shadow: 0 0 10px red; */
   text-align: center;
   background-color: black;
   color: red;
