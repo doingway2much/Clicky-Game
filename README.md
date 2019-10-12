@@ -1,13 +1,12 @@
 # Marvel Guessing Game
 
 
-
-I created this for a homework assignment for my Coding bootcamp at Georgia Tech.  It utilizes JavaSript, jQuery, Bootstrap, MongoDB, Handlebars, Cheerio and Axios.  The App reaches out via an URL and scrapes the site for specific data points and then inserts them to the Mongo DB.  Once the data is in the database it will render the scraped kicks to the home page.  If you click on the saved button it will save the kicks so you can view them later.  It also give you the ability to add notes to the Kicks by clicking on the name.
+THis is my first React App created for my Coding Bootcamp at Georgia Tech.  I used React, Javascript, Express, Node.js to create a game that lets you clcik on an image and the app can tell if you clicked it before or not.  If you havn't clicked on the image you get a point and the game goes on.  If you click on the same image the game is over.  Win or loose it will render it to the page depending on the outcome.  
 
 [Live DEMO hosted on Heroku](https://marvel-game.herokuapp.com// "Live DEMO")  
 
 
-![IMG1](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/KS.jpg?raw=true)
+![IMG1](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/MG.jpg?raw=true)
 
 Techknowlogies:
 * JavaScript
@@ -18,6 +17,5 @@ Techknowlogies:
 * Axios
 
 
-Usage:
 
 
